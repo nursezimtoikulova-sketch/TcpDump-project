@@ -288,7 +288,3 @@ sudo venv/bin/python main.py --list-interfaces
 
 *Nursezim Toikulova — Network Forensics & Traffic Analysis Lab*
 ---
-
-
-```
-
